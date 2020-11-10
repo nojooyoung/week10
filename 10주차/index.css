@@ -1,0 +1,22 @@
+section{
+   border: 4px solid #8d1be0;
+    width: 400px;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em; 
+    margin: 2em;
+}
+
+#main {
+    width: 400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 0 -100px;
+}
+
+a:hover{
+    color: darkorange;
+}
